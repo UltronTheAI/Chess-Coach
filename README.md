@@ -28,7 +28,7 @@ This Python script uses the Stockfish chess engine to analyze chess games and pr
 3. Run the script with Python:
 
     ```bash
-    python coach.py
+    python app.py
     ```
 
 ## Disclaimer
