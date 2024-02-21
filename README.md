@@ -20,7 +20,7 @@ This Python script uses the Stockfish chess engine to analyze chess games and pr
 1. Install the required Python libraries with pip:
 
     ```bash
-    pip install python-chess
+    pip install python-chess stockfish
     ```
 
 2. Download and install the Stockfish chess engine from the official website.
